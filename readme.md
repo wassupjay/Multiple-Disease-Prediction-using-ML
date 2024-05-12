@@ -35,6 +35,3 @@
 
 <<<<<<< HEAD
 #### Document Link : <a href="https://docs.google.com/document/d/17BQyZU0rE5WBRDx_bL8X7WOmgwfvLaJG_NXv8HkWBhs/edit?usp=sharing">Final Report Link</a>
-=======
-#### Document Link : <a href="https://docs.google.com/document/d/17BQyZU0rE5WBRDx_bL8X7WOmgwfvLaJG_NXv8HkWBhs/edit?usp=sharing">Final Report Link</a>
->>>>>>> 7326e7e6780f2637aed3f7b7a5c186927438e825
